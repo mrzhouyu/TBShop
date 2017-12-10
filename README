@@ -1,0 +1,5 @@
+自动化测试
+ 该程序了使用selenium自动测试工具 phantomjs无头浏览器 pyquery解析库 mongodb数据库的谢谢常用简单方法爬去淘宝商品信息
+ 避开了 常规的反扒虫陷阱 是快速开发爬虫获取数据的好方法
+ 配置文件在 config.py里  配置了mongodb库使用的一些基本信息和phantomjs浏览器的常用配置
+ KEYWORD 可以个性化的找到抓取的商品关键词
